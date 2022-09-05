@@ -1,0 +1,10 @@
+2022-08-16T06:03:05+00:00 ERROR Key Id and Key Secret are required.
+2022-08-16T06:03:05+00:00 INFO getRazorpayPaymentParams 8797
+2022-08-16T06:03:05+00:00 INFO createOrGetRazorpayOrderId 8797 and is1ccCheckout is set to no
+2022-08-16T06:03:05+00:00 INFO Called createOrGetRazorpayOrderId with params orderId 8797 and is_magic_checkout_order is set to no
+2022-08-16T06:03:05+00:00 INFO razorpayOrderId  | sessionKey razorpay_order_id8797
+2022-08-16T06:03:05+00:00 INFO Called createRazorpayOrderId with params orderId 8797 and sessionKey razorpay_order_id8797
+2022-08-16T06:03:05+00:00 INFO Called getOrderCreationData with params orderId 8797
+2022-08-16T06:03:05+00:00 INFO Called getOrderCreationData with params orderId 8797 and is1ccOrder is set to no
+2022-08-16T06:03:05+00:00 INFO For order 8797
+2022-08-16T06:03:05+00:00 INFO {"receipt":8797,"amount":6000,"currency":"INR","payment_capture":1,"app_offer":0,"notes":{"woocommerce_order_number":"8797"}}

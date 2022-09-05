@@ -1,0 +1,120 @@
+2022-09-05T05:56:34+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 52e223a95cf7564e3f1409463375310b
+            [Date] => Sep 5, 2022 @ 5:56
+            [URL] => https://oas.monkeydata.com/api/eshop/webhook/woocommerce/created/105775
+            [Duration] => 0.35006
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/6.8.2 Hookshot (WordPress/6.0.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://magicmeat.in/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => fe5m8rYmJ5qM0cMPZZhToEs2Qfz4XnUyFcOYxQoNYac=
+                            [X-WC-Webhook-ID] => 1
+                            [X-WC-Webhook-Delivery-ID] => 52e223a95cf7564e3f1409463375310b
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => application/json
+                                    [vary] => Accept-Encoding
+                                    [cache-control] => no-cache, private
+                                    [date] => Mon, 05 Sep 2022 05:56:33 GMT
+                                    [content-encoding] => gzip
+                                    [x-envoy-upstream-service-time] => 44
+                                    [content-security-policy] => default-src https:
+                                    [referrer-policy] => no-referrer-when-downgrade
+                                    [strict-transport-security] => max-age=31536000
+                                    [x-backend-service] => all
+                                    [x-content-type-options] => nosniff
+                                    [x-robots-tag] => noindex
+                                    [x-xss-protection] => 1; mode=block
+                                    [server] => istio-envoy
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2022-09-05T05:56:34+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 5f6234cbe3d908d230e51ed5129ab9c9
+            [Date] => Sep 5, 2022 @ 5:56
+            [URL] => https://oas.monkeydata.com/api/eshop/webhook/woocommerce/updated/105775
+            [Duration] => 0.12029
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/6.8.2 Hookshot (WordPress/6.0.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://magicmeat.in/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => fe5m8rYmJ5qM0cMPZZhToEs2Qfz4XnUyFcOYxQoNYac=
+                            [X-WC-Webhook-ID] => 2
+                            [X-WC-Webhook-Delivery-ID] => 5f6234cbe3d908d230e51ed5129ab9c9
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => application/json
+                                    [vary] => Accept-Encoding
+                                    [cache-control] => no-cache, private
+                                    [date] => Mon, 05 Sep 2022 05:56:33 GMT
+                                    [content-encoding] => gzip
+                                    [x-envoy-upstream-service-time] => 33
+                                    [content-security-policy] => default-src https:
+                                    [referrer-policy] => no-referrer-when-downgrade
+                                    [strict-transport-security] => max-age=31536000
+                                    [x-backend-service] => all
+                                    [x-content-type-options] => nosniff
+                                    [x-robots-tag] => noindex
+                                    [x-xss-protection] => 1; mode=block
+                                    [server] => istio-envoy
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+

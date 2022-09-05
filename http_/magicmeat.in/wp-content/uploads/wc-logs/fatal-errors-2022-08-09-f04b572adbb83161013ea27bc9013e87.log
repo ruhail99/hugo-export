@@ -1,0 +1,16 @@
+2022-08-09T17:39:13+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string * int in /var/www/wp-content/themes/woodmart/inc/integrations/elementor/elements/products/products.php:367
+Stack trace:
+#0 /var/www/wp-content/themes/woodmart/inc/integrations/elementor/elements/products/class-products.php(820): woodmart_elementor_products_template(Array)
+#1 /var/www/wp-content/plugins/elementor/includes/base/controls-stack.php(2223): XTS\Elementor\Products->render()
+#2 /var/www/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#3 /var/www/wp-content/plugins/elementor/core/base/document.php(284): Elementor\Widget_Base->render_content()
+#4 /var/www/wp-content/plugins/elementor/includes/managers/widgets.php(426): Elementor\Core\Base\Document->render_element(Array)
+#5 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#6 /var/www/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#7 /var/www/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#8 /var/www/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#9 /var/www/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#10 /var/www/wp-admin/admin-ajax.php(187): do_action('wp_ajax_element...')
+#11 {main}
+  thrown in /var/www/wp-content/themes/woodmart/inc/integrations/elementor/elements/products/products.php on line 367
+

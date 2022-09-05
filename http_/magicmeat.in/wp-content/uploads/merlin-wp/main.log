@@ -1,0 +1,8 @@
+[2022-07-30 17:57:05] merlin-logger.DEBUG: The welcome step has been displayed [] []
+[2022-07-30 17:57:09] merlin-logger.DEBUG: The child theme installation step has been displayed [] []
+[2022-07-30 17:57:11] merlin-logger.DEBUG: The child theme style.css content was generated [] []
+[2022-07-30 17:57:11] merlin-logger.DEBUG: The child theme functions.php content was generated [] []
+[2022-07-30 17:57:11] merlin-logger.DEBUG: The child theme screenshot was copied to the child theme, with the following result {"copied":true} []
+[2022-07-30 17:57:11] merlin-logger.DEBUG: The newly generated child theme was activated [] []
+[2022-07-30 17:57:16] merlin-logger.DEBUG: The license activation step has been displayed [] []
+[2022-07-30 17:58:04] merlin-logger.DEBUG: The license activation step has been displayed [] []

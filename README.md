@@ -1,0 +1,2 @@
+# hugo-export
+ hugo test
